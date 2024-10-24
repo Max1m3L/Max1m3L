@@ -1,21 +1,13 @@
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MaxLVSHV/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MAX1M3/)
-
---------
-
 Hey 👋
 
-I am a student studying software engineering at a university. I study Java and backend direction on my own and write various projects for myself and my portfolio 🙂
+I am a student studying software engineering at a university(sophomore). I study Java and backend direction on my own and write various projects for myself and my portfolio 🙂
 
 --------
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Max1m3L&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-</div>
+![Max1m3L's Stats](https://github-readme-stats.vercel.app/api?username=Max1m3L&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Max1m3L's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max1m3L&theme=vue-dark&hide_border=true)
 
 ---------
-
-<br>
 
 ### Languages and Tools 🛠:
 
@@ -41,5 +33,10 @@ I am a student studying software engineering at a university. I study Java and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
 </div>
 
-###
+--------
+
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/MaxLVSHV/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/MAX1M3/)
+
+
 
