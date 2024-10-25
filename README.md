@@ -5,7 +5,6 @@ I am a student studying software engineering at a university(sophomore). I study
 --------
 
 ![Max1m3L's Stats](https://github-readme-stats.vercel.app/api?username=Max1m3L&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Max1m3L's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max1m3L&theme=tokyonight&hide_border=false)
 
 ---------
 
