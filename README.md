@@ -1,6 +1,6 @@
 Hey 👋
 
-I am a student studying software engineering at a university(sophomore). I study Java and backend direction on my own and write various projects for myself and my portfolio 🙂
+I am a student studying software engineering at a university(third year). I study Java and backend direction on my own and write various projects for myself and my portfolio 🙂
 
 --------
 
